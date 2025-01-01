@@ -1,0 +1,51 @@
+PayerID,PayerName,PayerCategory,ReimbursementRate
+PY001,"Boyd, Garcia and Ward",Private,0.64
+PY002,"Rojas, Richards and Brown",Private,0.58
+PY003,Salazar Group,Government,0.59
+PY004,Williams Group,Private,0.52
+PY005,Curry LLC,Private,0.93
+PY006,Hood and Sons,Private,0.76
+PY007,Fritz PLC,Government,0.66
+PY008,"Gomez, Sandoval and Clark",Private,0.64
+PY009,Hamilton-Hernandez,Private,0.77
+PY010,"Brown, Bowers and Pacheco",Private,0.66
+PY011,"Whitehead, Parker and Rosales",Government,0.93
+PY012,Martin Inc,Private,0.61
+PY013,"Pena, Baker and Gray",Government,0.94
+PY014,Hill-Mack,Government,0.83
+PY015,Pugh Ltd,Private,0.98
+PY016,Brown-Johnson,Private,0.51
+PY017,Ward-Stokes,Private,0.53
+PY018,"Lowery, Lin and Ramirez",Government,0.75
+PY019,Boyle PLC,Government,0.96
+PY020,"Mcguire, Acosta and Floyd",Private,0.87
+PY021,Navarro LLC,Private,0.81
+PY022,Sosa-Carey,Government,0.52
+PY023,"Sanford, Blake and Jenkins",Private,0.68
+PY024,"Carter, Arroyo and Harris",Government,0.67
+PY025,"Andrade, Taylor and Mathis",Private,0.77
+PY026,"Young, Anderson and Green",Government,0.63
+PY027,"Edwards, Myers and Hooper",Private,0.63
+PY028,Gonzalez-Malone,Private,0.81
+PY029,"Flores, Cherry and Ochoa",Private,0.97
+PY030,Weber-Perkins,Private,0.83
+PY031,Flores PLC,Private,0.83
+PY032,"Young, Bennett and Moore",Government,0.99
+PY033,"Ross, Leon and Callahan",Private,0.58
+PY034,"Graham, Flores and Moon",Private,0.52
+PY035,Olson-Schultz,Private,0.87
+PY036,Stewart LLC,Government,0.72
+PY037,"Rodriguez, Wilson and Carney",Private,0.71
+PY038,Fletcher LLC,Private,0.61
+PY039,Dillon Inc,Private,0.75
+PY040,Cooke-Martinez,Private,0.72
+PY041,Moore-Howell,Private,0.67
+PY042,Lopez Inc,Government,0.72
+PY043,Phillips PLC,Private,0.69
+PY044,Wright Ltd,Private,0.97
+PY045,Jennings-Moss,Government,0.99
+PY046,Rogers-Anderson,Private,0.92
+PY047,Clark-Steele,Government,1.0
+PY048,Green LLC,Government,0.63
+PY049,Stevenson-Turner,Government,0.92
+PY050,Molina Ltd,Private,0.7

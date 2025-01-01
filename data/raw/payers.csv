@@ -1,0 +1,51 @@
+PayerID,PayerName,PayerType,ReimbursementRate
+PAYER001,Foster and Sons,Medicaid,86.24
+PAYER002,Harding-Chambers,Medicare,85.6
+PAYER003,Brooks-Taylor,Private,74.16
+PAYER004,Williams-West,Private,78.31
+PAYER005,Graham-Davis,Medicaid,84.24
+PAYER006,"Monroe, Mclaughlin and Dunlap",Private,51.99
+PAYER007,"Figueroa, Manning and Flores",Medicare,81.0
+PAYER008,Smith Group,Medicare,74.35
+PAYER009,"Logan, Cunningham and Brown",Medicaid,79.58
+PAYER010,Lawrence and Sons,Private,81.31
+PAYER011,Webb-Wilson,Private,50.29
+PAYER012,Jones-Phillips,Medicaid,87.89
+PAYER013,"Johnson, Lee and Thompson",Medicare,86.77
+PAYER014,Flores-Chen,Medicaid,59.74
+PAYER015,Harris-Neal,Medicare,68.53
+PAYER016,"Rodriguez, Williams and Marshall",Medicare,64.88
+PAYER017,Smith-Abbott,Medicare,53.99
+PAYER018,Salazar-Maldonado,Medicaid,76.23
+PAYER019,Jones-Hill,Medicaid,91.62
+PAYER020,"Palmer, Bullock and Diaz",Medicare,62.5
+PAYER021,"Berg, Smith and Lawrence",Medicaid,69.22
+PAYER022,Evans Inc,Medicare,65.7
+PAYER023,Brown and Sons,Private,66.06
+PAYER024,Fowler-Clark,Medicare,70.36
+PAYER025,"Lopez, Reid and Collins",Medicare,81.32
+PAYER026,Thomas Group,Medicaid,51.21
+PAYER027,Mcpherson-Mason,Medicare,54.39
+PAYER028,Ward Ltd,Medicaid,78.22
+PAYER029,Parsons-Campos,Medicare,50.96
+PAYER030,Mays Group,Medicaid,62.39
+PAYER031,"Wallace, Irwin and Valdez",Medicaid,57.74
+PAYER032,Wright-Abbott,Private,57.06
+PAYER033,Lawson-Riggs,Medicare,83.19
+PAYER034,Price and Sons,Private,82.96
+PAYER035,"Santana, Caldwell and Anderson",Medicaid,58.81
+PAYER036,"Jones, Shepherd and Fields",Private,59.41
+PAYER037,Austin Inc,Medicare,55.97
+PAYER038,Jones Ltd,Medicare,70.74
+PAYER039,Paul-Li,Medicaid,79.77
+PAYER040,Williams-Carter,Medicare,60.15
+PAYER041,Ramirez and Sons,Medicare,56.05
+PAYER042,Hensley Inc,Medicaid,55.3
+PAYER043,Davis PLC,Medicare,91.05
+PAYER044,"White, Warren and Bowers",Medicare,59.19
+PAYER045,"Davis, Bailey and Beard",Medicaid,78.22
+PAYER046,Williams-Guerrero,Medicaid,89.61
+PAYER047,Gentry-Clark,Medicare,63.48
+PAYER048,Moore PLC,Medicaid,80.9
+PAYER049,"Howard, Shepherd and Carter",Medicare,56.93
+PAYER050,Buck LLC,Medicare,52.85
