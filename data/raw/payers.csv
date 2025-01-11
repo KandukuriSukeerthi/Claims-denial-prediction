@@ -1,51 +1,51 @@
-PayerID,PayerName,PayerType,ReimbursementRate
-PAYER001,Foster and Sons,Medicaid,86.24
-PAYER002,Harding-Chambers,Medicare,85.6
-PAYER003,Brooks-Taylor,Private,74.16
-PAYER004,Williams-West,Private,78.31
-PAYER005,Graham-Davis,Medicaid,84.24
-PAYER006,"Monroe, Mclaughlin and Dunlap",Private,51.99
-PAYER007,"Figueroa, Manning and Flores",Medicare,81.0
-PAYER008,Smith Group,Medicare,74.35
-PAYER009,"Logan, Cunningham and Brown",Medicaid,79.58
-PAYER010,Lawrence and Sons,Private,81.31
-PAYER011,Webb-Wilson,Private,50.29
-PAYER012,Jones-Phillips,Medicaid,87.89
-PAYER013,"Johnson, Lee and Thompson",Medicare,86.77
-PAYER014,Flores-Chen,Medicaid,59.74
-PAYER015,Harris-Neal,Medicare,68.53
-PAYER016,"Rodriguez, Williams and Marshall",Medicare,64.88
-PAYER017,Smith-Abbott,Medicare,53.99
-PAYER018,Salazar-Maldonado,Medicaid,76.23
-PAYER019,Jones-Hill,Medicaid,91.62
-PAYER020,"Palmer, Bullock and Diaz",Medicare,62.5
-PAYER021,"Berg, Smith and Lawrence",Medicaid,69.22
-PAYER022,Evans Inc,Medicare,65.7
-PAYER023,Brown and Sons,Private,66.06
-PAYER024,Fowler-Clark,Medicare,70.36
-PAYER025,"Lopez, Reid and Collins",Medicare,81.32
-PAYER026,Thomas Group,Medicaid,51.21
-PAYER027,Mcpherson-Mason,Medicare,54.39
-PAYER028,Ward Ltd,Medicaid,78.22
-PAYER029,Parsons-Campos,Medicare,50.96
-PAYER030,Mays Group,Medicaid,62.39
-PAYER031,"Wallace, Irwin and Valdez",Medicaid,57.74
-PAYER032,Wright-Abbott,Private,57.06
-PAYER033,Lawson-Riggs,Medicare,83.19
-PAYER034,Price and Sons,Private,82.96
-PAYER035,"Santana, Caldwell and Anderson",Medicaid,58.81
-PAYER036,"Jones, Shepherd and Fields",Private,59.41
-PAYER037,Austin Inc,Medicare,55.97
-PAYER038,Jones Ltd,Medicare,70.74
-PAYER039,Paul-Li,Medicaid,79.77
-PAYER040,Williams-Carter,Medicare,60.15
-PAYER041,Ramirez and Sons,Medicare,56.05
-PAYER042,Hensley Inc,Medicaid,55.3
-PAYER043,Davis PLC,Medicare,91.05
-PAYER044,"White, Warren and Bowers",Medicare,59.19
-PAYER045,"Davis, Bailey and Beard",Medicaid,78.22
-PAYER046,Williams-Guerrero,Medicaid,89.61
-PAYER047,Gentry-Clark,Medicare,63.48
-PAYER048,Moore PLC,Medicaid,80.9
-PAYER049,"Howard, Shepherd and Carter",Medicare,56.93
-PAYER050,Buck LLC,Medicare,52.85
+PayerID,PayerName,PayerCategory,ReimbursementRate
+PY001,"Boyd, Garcia and Ward",Private,0.64
+PY002,"Rojas, Richards and Brown",Private,0.58
+PY003,Salazar Group,Government,0.59
+PY004,Williams Group,Private,0.52
+PY005,Curry LLC,Private,0.93
+PY006,Hood and Sons,Private,0.76
+PY007,Fritz PLC,Government,0.66
+PY008,"Gomez, Sandoval and Clark",Private,0.64
+PY009,Hamilton-Hernandez,Private,0.77
+PY010,"Brown, Bowers and Pacheco",Private,0.66
+PY011,"Whitehead, Parker and Rosales",Government,0.93
+PY012,Martin Inc,Private,0.61
+PY013,"Pena, Baker and Gray",Government,0.94
+PY014,Hill-Mack,Government,0.83
+PY015,Pugh Ltd,Private,0.98
+PY016,Brown-Johnson,Private,0.51
+PY017,Ward-Stokes,Private,0.53
+PY018,"Lowery, Lin and Ramirez",Government,0.75
+PY019,Boyle PLC,Government,0.96
+PY020,"Mcguire, Acosta and Floyd",Private,0.87
+PY021,Navarro LLC,Private,0.81
+PY022,Sosa-Carey,Government,0.52
+PY023,"Sanford, Blake and Jenkins",Private,0.68
+PY024,"Carter, Arroyo and Harris",Government,0.67
+PY025,"Andrade, Taylor and Mathis",Private,0.77
+PY026,"Young, Anderson and Green",Government,0.63
+PY027,"Edwards, Myers and Hooper",Private,0.63
+PY028,Gonzalez-Malone,Private,0.81
+PY029,"Flores, Cherry and Ochoa",Private,0.97
+PY030,Weber-Perkins,Private,0.83
+PY031,Flores PLC,Private,0.83
+PY032,"Young, Bennett and Moore",Government,0.99
+PY033,"Ross, Leon and Callahan",Private,0.58
+PY034,"Graham, Flores and Moon",Private,0.52
+PY035,Olson-Schultz,Private,0.87
+PY036,Stewart LLC,Government,0.72
+PY037,"Rodriguez, Wilson and Carney",Private,0.71
+PY038,Fletcher LLC,Private,0.61
+PY039,Dillon Inc,Private,0.75
+PY040,Cooke-Martinez,Private,0.72
+PY041,Moore-Howell,Private,0.67
+PY042,Lopez Inc,Government,0.72
+PY043,Phillips PLC,Private,0.69
+PY044,Wright Ltd,Private,0.97
+PY045,Jennings-Moss,Government,0.99
+PY046,Rogers-Anderson,Private,0.92
+PY047,Clark-Steele,Government,1.0
+PY048,Green LLC,Government,0.63
+PY049,Stevenson-Turner,Government,0.92
+PY050,Molina Ltd,Private,0.7
